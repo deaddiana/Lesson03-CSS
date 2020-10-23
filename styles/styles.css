@@ -1,0 +1,38 @@
+* {
+  border: 1px dashed yello;
+}
+body {
+  font-size: 16px;
+  color: cornflowerblue;
+  background-color: #ddd
+}
+
+p {
+  color:DarkSeaGreen;
+}
+
+img {
+  width: 35%;
+  border: 3px double orange;
+  border-radius: 1rem;
+
+}
+
+.second-paragraph {
+  width: 75%;
+  color:red;
+}
+
+.main-paragraph {
+  width: 33%
+   color: green;
+}
+
+.main-paragraph:hover {
+  background: rgb(238, 130, 238);
+  font-size: 2rem;
+}
+
+a[href= "./about-me.html"] {
+  colot:yellow;
+}

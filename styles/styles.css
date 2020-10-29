@@ -5,24 +5,19 @@ body {
     border: 5px ridge orange;
     padding: 5px;
     color:purple;
-
 }
 
 header{
     background: #86d85e;
     padding: 2%;
+}
 
-
-  }
-
-
-  img {
+img {
       width:50%;
       border:3px double orange;
+}
 
-  }
-
-  .main-paragraph {
+.main-paragraph {
       text-align: justify;
       width: 40%;
       padding: 2px;
@@ -32,10 +27,10 @@ header{
       color:orange;
     }
 
-    h3 {
+h3 {
     color: #86d85e;;
     margin-left: 20px;
-  }
+}
 
 .another-paragraph {
   text-align: justify;
@@ -45,21 +40,22 @@ header{
   margin: 2px;
   box-sizing: border-box;
   color:orange;
-
 }
 
 
 a[href="../portfolio/about-me.html"] {
   color: red;
-  }
+}
 
 a[href="../portfolio/index.html"] {
     color: green;
-    }
+  }
+
  p {
    color:purple;
  }
- footer {
+
+footer {
    color:red;
    padding-top: 10%;
  }
